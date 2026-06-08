@@ -31,7 +31,7 @@
       "title": "Personal Portfolio Website",
       "timeline": "May 2026 - June 2026",
       "description": "SEO optimised personal portfolio website built with Next.js, featuring dynamic content rendering and smooth scrolling animations using Lenis.",
-      "techStack": ["Next.js", "Farmer", "Lenis", "Vercel"]
+      "techStack": ["Next.js", "Framer", "Lenis", "Vercel"]
     },
     {
       "title": "Email Spam Classification",
