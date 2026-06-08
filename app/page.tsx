@@ -74,15 +74,18 @@ export default function Home() {
   ];
 
   return (
-    <main className="relative min-h-screen px-6 md:px-24 max-w-7xl mx-auto space-y-32 py-20 overflow-hidden">
-      
-      {/* RADIANT AMBIENT GLOW */}
-      <div className="fixed inset-0 z-[-1] flex items-center justify-center pointer-events-none bg-black">
+    <>
+    {/* making the backgroung grid separate */}
+    <div className="fixed inset-0 z-[-1] flex items-center justify-center pointer-events-none bg-black">
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
         <div className="absolute top-[10%] left-[10%] w-[50vw] h-[50vh] bg-blue-700/40 blur-[100px] rounded-full mix-blend-screen"></div>
         <div className="absolute top-[30%] left-[40%] w-[40vw] h-[40vh] bg-[#ab1bda]/60 blur-[90px] rounded-full mix-blend-screen"></div>
         <div className="absolute top-[20%] right-[10%] w-[30vw] h-[30vh] bg-cyan-400/30 blur-[80px] rounded-full mix-blend-screen"></div>
       </div>
+    <main className="relative min-h-screen px-6 md:px-24 max-w-7xl mx-auto space-y-32 py-20 overflow-hidden">
+      
+      {/* RADIANT AMBIENT GLOW */}
+      
 
       {/* HERO SECTION */}
       {/* HERO SECTION (Split Layout) */}
@@ -538,5 +541,6 @@ export default function Home() {
       </motion.section>
 
     </main>
+    </>
   );
 }
