@@ -208,7 +208,7 @@ export default function Home() {
               <h4 className="text-[#ab1bda] text-sm font-mono tracking-widest uppercase">
                 01 — About Me
               </h4>
-              <h2 className="text-4xl md:text-5xl font-bold text-white">Who I am</h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-white">Who am I</h2>
               <div className="w-12 h-1 bg-[#ab1bda] rounded-full"></div>
             </div>
 
