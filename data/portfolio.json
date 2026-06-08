@@ -1,0 +1,82 @@
+{
+  "personal": {
+    "name": "Arpan Chatterjee",
+    "role": "Computer Science Undergraduate & Software Developer",
+    "email": "arpanchatterjee648@gmail.com",
+    "summary": "Final year Computer Science student, with keen interest in Deep Learning, and System Design. Passionate about applying these knowledge to solve complex, real-world problems."
+  },
+  "education": [
+    {
+      "institution": "Puducherry Technological University",
+      "degree": "B.Tech in Computer Science",
+      "timeline": "Sept 2023 - May 2027",
+      "gpa": "8.3/10",
+      "coursework": ["Data Structures", "Computer Organization & Architecture", "Operating Systems", "DBMS", "Computer Networking"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Development Engineer Intern",
+      "company": "Bluestock",
+      "location": "Pune, Maharashtra",
+      "timeline": "Nov 2025 - Dec 2025",
+      "highlights": [
+        "Developed a responsive web application using React.js and TailwindCSS, improving user engagement.",
+        "Collaborated virtually to implement a REST API using Node and Express, integrating JWT-based authentication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "timeline": "May 2026 - June 2026",
+      "description": "SEO optimised personal portfolio website built with Next.js, featuring dynamic content rendering and smooth scrolling animations using Lenis.",
+      "techStack": ["Next.js", "Farmer", "Lenis", "Vercel"]
+    },
+    {
+      "title": "Email Spam Classification",
+      "timeline": "March 2026 - April 2026",
+      "description": "Trained a Multinomial Naive Bayes ML model to predict spam. Deployed the interface using Streamlit.",
+      "techStack": ["Python", "Scikit-learn", "Pandas", "Streamlit"]
+    },
+    {
+      "title": "Real-time Object Detection",
+      "timeline": "Current Work",
+      "description": "(Worked as part time) Fine-tuned YOLOv8 neural network architectures for high-speed object detection and tracking.",
+      "techStack": ["Python", "Deep Learning", "PyTorch", "Roboflow"]
+    },
+    {
+      "title": "Hostel Booking Mobile Application",
+      "timeline": "Fall 2025",
+      "description": "Developed a native Android application featuring role-based authentication for students and authorities, complete with dynamic UI components and real-time booking notifications.",
+      "techStack": ["Android", "Java", "XML", "Firebase"]
+    },
+    {
+      "title": "Blog Web Application",
+      "timeline": "March 2026 - April 2026",
+      "description": "Engineered a PHP-based platform utilizing Nginx as a reverse-proxy server, featuring article sharing, liking mechanisms, and dynamic user routing.",
+      "techStack": ["PHP", "Nginx", "PHP-FPM", "MariaDB"]
+    }
+  ],
+  "skills": {
+    "languages": ["C/C++", "Python", "JavaScript", "SQL", "Java", "Assembly (8085/8086)"],
+    "technologies": ["Django", "Node/Express", "Spring Boot", "React", "Scikit-learn", "Git", "Linux/Arch & Ubuntu"]
+  },
+  "hobbies": [
+    {
+      "name": "Listening Sad Songs",
+      "description": "At night when the world is quiet and away from this noise, I love to loose myself in sad songs....connects with my emotions.",
+      "icon": "🎵"
+    },
+    {
+      "name": "Dark Tourism",
+      "description": "Exploring sites of historical significance, particularly those with dark or tragic histories. There I try time travelling to the past and imagining the stories that unfolded there.",
+      "icon": "🕯️"
+    },
+    {
+      "name": "Adventure",
+      "description": "Exploring new places mainly places that are close to nature like Forests.",
+      "icon": "🌲"
+    }
+  ]
+}
